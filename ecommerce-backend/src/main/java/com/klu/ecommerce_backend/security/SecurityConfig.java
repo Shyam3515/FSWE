@@ -110,7 +110,7 @@ public class SecurityConfig {
                 List.of(
                     "http://localhost:5173",
                     "https://smart-cart-psi-one.vercel.app",
-                    "https://ecommercesmart.netlify.app"
+                    "https://whimsical-mandazi-bf13ac.netlify.app/"
                 )
         );
 
