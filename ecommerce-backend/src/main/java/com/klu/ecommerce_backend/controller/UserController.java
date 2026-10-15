@@ -14,7 +14,7 @@ import com.klu.ecommerce_backend.service.UserService;
 
 @CrossOrigin(origins = {
     "http://localhost:5173",
-    "https://ecommercesmart.netlify.app/"
+    "https://whimsical-mandazi-bf13ac.netlify.app/"
 })
 @RestController
 @RequestMapping("/api/auth")
